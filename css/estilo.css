@@ -1,0 +1,38 @@
+body {
+background: rgb(18,176,182);
+background: linear-gradient(90deg, rgba(18,176,182,1) 0%, rgba(9,121,120,1) 35%, rgba(8,108,102,1) 100%);
+    font-family: sans-serif;
+}
+
+h1{
+    color:white;
+}
+.contenedor-foto {
+    padding: 80px;
+    margin: center;
+    text-align: center;
+}
+
+.imagen {
+    
+    height: 30%;
+    width: 30%;
+    border-radius:50%;
+}
+
+.contenedor-video{
+
+    padding: 50px;
+}
+
+
+.texto-biografia {
+    position: relative;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    border-radius:50px;
+    background-color: rgb(37, 175, 235);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-spacing: 100px;
+}
